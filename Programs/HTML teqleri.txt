@@ -1,0 +1,33 @@
+
+
+        HTML tegleri
+
+
+<H1></H1>                  Bashliq yazmaq ucun
+<p></p>                   Paraqraf yazmaq ucun
+<b></b>:              Qalin herflerle yazmaq ucun
+<strong></strong>     Qalin herflerle yazmaq ucun
+<small></small>       Balaca herflerle yazmaq ucun
+<br>                  Ashagi setire dushmek ucun
+<i></i>               Eyri herflerle yazmaq ucun
+<sub></sub>           Herfin indeksine reqem yazmaq ucun
+<sup></sup>           Herfin quvvetine reqem yazmaq ucun
+<mark></mark>         Yazinin fonunu saraltmaq ucun
+<del></del>           Yazinin ustunden xett cekmek ucun
+<ins></ins>           Yazinin altindan xett cekmek ucun
+<q></q>               metnin mueyyen hissesini dirnaq icerisinde sitat kimi gosterir
+<cite></cite>         Metnde istifade olunan adlari kursiv(eyri)yazmaq ucun
+             
+
+
+CSS tegleri
+
+ctrl ve ?     inline yazmaq ucun
+<h1 style(enter);color(enter);xxcolor(enter);                              Metne reng vermek ucun
+ctrl+probel font-size;rem or %;                                            Metnin olcusunu mueyyen etmek ucun
+text-allign;jastify                                                        Metnin sag terefini duzleshdirmek ucun
+text-allign;center                                                         Metni merkeze getirmek ucun
+text-allign;background-color;xxcolor                                       metnin arxasina reng fon vermek ucun
+<pre></pre>                                                                metni istediyin yerden yeni setre kecirtmek ucun
+<a href "link">click me</a>                                                her hansisa linke istinad etmek ucun  
+<head><link rel="stylesheet" href="css/style.CSS"></head                   CSS style qovlugu ile elaqe yaratmaq ucun. CSS <--external-->              
